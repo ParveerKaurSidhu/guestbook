@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.aside{
+  background-color:  darkgray;
+  width: 20%;
+  height: 700px;
+  float: left;
+  
+  }
+  .main{
+  background-color: darkgray;
+  width: 80%;
+  height: 700px;
+  float: left;
+  }
+  .guest-info{
+    width: 90%;
+    height: 80%;
+    padding: 50px 0;
+    text-align: center;
+    background-color:gray;
+    padding: 30px;
+    margin: 30px;
+    display:none; 
+  }
+  .displayValues{
+    width: 90%;
+    height: 80%;
+    padding: 50px;
+    text-align: left;
+    background-color:gray;
+    margin: 30px;
+    
+    
+  
+
+  }
+  .col{
+    margin: 20px;
+  }
+  .btn{
+    background-color: darkgrey !important; 
+  }
